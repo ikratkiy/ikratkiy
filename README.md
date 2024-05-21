@@ -1,10 +1,10 @@
 # Hi there 👋
 
-:information_source: My nickname is Ikratkiy. I am a web developer who prefers React for frontend and cloud solutions for backend. 
+:information_source: My nickname is Ikratkiy. I am a blockchain web/native developer
 
 :heart: I love to design complex systems and act as an architect of the links between software and business processes
 
-:briefcase: Never had a fulltime job. I'm just a student yet...
+:briefcase: Сurrently working in the Blockchain lab in the RnD department of a large corporation
 
 :microphone: Occasionally, I have a rap album! But it's not released yet...
 
