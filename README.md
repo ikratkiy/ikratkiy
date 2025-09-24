@@ -1,58 +1,42 @@
 # 👋 Hi, I'm Ivan Bryukhov  
 
-**Web & DeFi Developer | Solana Blockchain | Crypto Wallets**
+**Crypto Wallet & DeFi Developer | Solana Blockchain | Rust & React**
 
 ---
 
 ## 🚀 About Me  
-I'm a **web frontend developer** with a strong focus on **crypto wallets** and **DeFi applications**.  
-I combine expertise in **Solana blockchain**, smart contracts, and frontend development with experience in **leading teams** and bridging **software architecture with business processes**.  
+I'm a developer specialized in **crypto wallets** and **DeFi products**.  
+My core expertise is **Solana blockchain**, **smart contracts in Rust**, and **web frontend (React, TypeScript)**.  
+I focus on building secure, scalable, and user-friendly wallet solutions.  
 
 ---
 
 ## 💼 Experience  
 
-- **Tech Lead, Blockchain RnD Lab (Sber, Eastern Europe’s largest bank)**  
+- **Tech Lead — Blockchain RnD Lab (Sber)**  
   *Apr 2024 – Oct 2025*  
-  - Led development of a **multi-chain crypto wallet** (web + Chrome extension) with Solana and proprietary corporate L1 blockchain support  
-  - Built identity verification solutions using **Zero Knowledge Proof**  
-  - Co-developed a protocol for **decentralized recurring payments** (subscription model for DeFi)
+  - Led development of a **multi-chain crypto wallet** (web + browser extension) with Solana and corporate L1 blockchain support  
+  - Implemented **Zero Knowledge Proof** identity verification  
+  - Designed protocol for **decentralized recurring payments** in DeFi  
 
 - **Solana Wallet Startup**  
   *2022 – Present*  
-  - Developed a Solana-based crypto wallet  
-  - Wrote **smart contracts in Rust** for Solana  
-  - Designed wallet architecture and UX flows
-
-- **Freelance Projects**  
-  *2020 – Present*  
-  - Data analysis scripts (Python, R, VBA)  
-  - Telegram bots and automation tools  
+  - Built a **Solana crypto wallet** from scratch  
+  - Developed **smart contracts in Rust**  
+  - Designed wallet UX and transaction flows  
 
 ---
 
-## 🎓 Education  
+## 🛠️ Core Skills  
 
-- **Master’s in Product Management** — Central University (*2025 – present*)  
-- **Bachelor’s in Sound Art & Design** — HSE Art and Design School (*2022 – 2025*)  
-- **Computer Science Program** — School 21 (*2023 – present*)  
-- **Management** — Financial University (*2020 – 2021*)  
-
----
-
-## 🛠️ Skills  
-
-- **Frontend**: React, TypeScript, MobX, Styled Components  
-- **Blockchain & DeFi**: Solana (advanced), Rust smart contracts, Ethereum, Bitcoin  
-- **Cryptography**: Hashing, Digital Signatures, Encryption, Zero Knowledge Proof  
-- **Data Analysis**: Python, R, Excel, VBA  
-- **UI/UX**: Web app design systems  
-- **Team Leadership**: Led a team of 3 developers  
-- **Languages**: English (C1)  
+- **Frontend**: React, TypeScript, MobX  
+- **Blockchain**: Solana (advanced), Rust smart contracts, Ethereum basics  
+- **Crypto & Security**: Zero Knowledge Proof, Digital Signatures, Encryption  
+- **Tools**: Git, Chrome Extensions, Web3 APIs  
 
 ---
 
-## 📫 Stay in Touch  
+## 📫 Contacts  
 
 - [LinkedIn](https://www.linkedin.com/in/ikratkiy/)  
 - [Telegram](https://t.me/ikratkiy)  
